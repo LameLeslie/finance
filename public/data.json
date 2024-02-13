@@ -1,0 +1,7 @@
+{
+    "transactions": [
+      {"id": 1, "amount": 35173, "description": "Bevétel"}
+    ],
+    "balance" : 0
+  }
+  
